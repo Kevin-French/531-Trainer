@@ -1,0 +1,30 @@
+ [0] = Military Press Max
+[1] = Dead Lift Max
+[2] = Bench Press Max
+[3] = Squat Max
+[4] =  Cycle Number
+[5] = Military Press Increment Amount
+[6] = Dead Lift Increment Amount
+[7] = Bench Press Increment Amount
+[8] = Squat Increment Amount
+
+[9] = Last Lift Selected for Main Menu
+
+[10] = Weight for 1RM Calculator
+[11] = Reps for 1RM Calculator
+[12] =  Estimated Max for 1RM Calculator
+[13] = lb_kg for Weight for 1RM Calculator
+[14] = lb_kg for Estimated Max for 1RM Calculator
+
+[15] = Week for Main Lift
+[16] = Set for Main Lift
+[17] = lb_kg for Main Lift
+
+[18] = Weight for Assitance
+[19] = Percentage for Assistance
+[20] =  Weight For Set For Assistance
+[21] = lb_kg for Weight for Assistance
+[22] = lb_kg for Weight for Set for Assistance
+[23] = Movie 
+[24] = 
+[25] = 

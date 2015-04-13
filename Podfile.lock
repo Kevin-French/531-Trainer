@@ -1,0 +1,10 @@
+PODS:
+  - FlatUIKit (1.6)
+
+DEPENDENCIES:
+  - FlatUIKit
+
+SPEC CHECKSUMS:
+  FlatUIKit: a59c93fe2fde5329dfb71dd9317b1b0386d6a178
+
+COCOAPODS: 0.36.3
